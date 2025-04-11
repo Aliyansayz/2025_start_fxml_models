@@ -1,0 +1,172 @@
+{
+    "EURUSD": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slot6"
+    ],
+    "GBPCAD": [
+        "slot1",
+        "slot2"
+    ],
+    "AUDCAD": [
+        "slot1",
+        "slot2",
+        "slotA"
+    ],
+    "AUDCHF": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slotA"
+    ],
+    "AUDJPY": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slotA",
+        "slot6",
+        "slot7",
+        "slotA1"
+    ],
+    "AUDNZD": [
+        "slot1",
+        "slot2"
+    ],
+    "AUDUSD": [
+        "slot1",
+        "slot2"
+    ],
+    "CADCHF": [
+        "slot1",
+        "slotA"
+    ],
+    "CADJPY": [
+        "slot1"
+    ],
+    "CHFJPY": [
+        "slot1",
+        "slotA"
+    ],
+    "EURAUD": [
+        "slot1"
+    ],
+    "EURCAD": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slotA"
+    ],
+    "EURCHF": [
+        "slot1",
+        "slot2",
+        "slot3"
+    ],
+    "EURGBP": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slotB",
+        "slotA"
+    ],
+    "EURJPY": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot_stable",
+        "slot5_stable",
+        "slot5_B",
+        "slot5_A"
+    ],
+    "EURNZD": [
+        "slot1"
+    ],
+    "GBPAUD": [
+        "slot1"
+    ],
+    "GBPCHF": [
+        "slot1",
+        "slotA"
+    ],
+    "GBPJPY": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slot6",
+        "slot7",
+        "slotA",
+        "slotB"
+    ],
+    "GBPNZD": [
+        "slot1",
+        "slotA"
+    ],
+    "GBPUSD": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slotA",
+        "slotStable",
+        "slot4"
+    ],
+    "NZDCAD": [
+        "slot1",
+        "slot2",
+        "slotA"
+    ],
+    "NZDCHF": [
+        "slot1",
+        "slot2",
+        "slotA"
+    ],
+    "NZDJPY": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slotA_2",
+        "slotStable",
+        "slot6",
+        "slotA"
+    ],
+    "NZDUSD": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slot6",
+        "slot7",
+        "slotA"
+    ],
+    "USDCAD": [
+        "slot1",
+        "slot2",
+        "slotA"
+    ],
+    "USDCHF": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slotA"
+    ],
+    "USDJPY": [
+        "slot1",
+        "slot2",
+        "slot3",
+        "slot4",
+        "slot5",
+        "slotB",
+        "slotStable",
+        "slotA"
+    ]
+}
