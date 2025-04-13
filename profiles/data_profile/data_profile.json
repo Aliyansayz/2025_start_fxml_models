@@ -71,8 +71,8 @@
         ],
         "commodity_list": []
     },
-    "nov_2024_github": {
-        "profile_id": "nov_2024_github",
+    "nov_2024": {
+        "profile_id": "nov_2024",
         "features_day": "author-defined-v0.0.1",
         "features_hour4": "author-defined-v0.0.1",
         "window_size_day": 10,
