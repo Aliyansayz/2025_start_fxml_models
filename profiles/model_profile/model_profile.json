@@ -1,5 +1,5 @@
 {
-    "2025_start": {
+    "2025_start_github": {
 
         "profile_name": "2025_start",
         "start_date": "10/01/2019",
@@ -7,7 +7,7 @@
         "training_size": 0.8,
         "last_month_eval": 6,
 
-        "data_profile": "nov_2024"
+        "data_profile": "nov_2024_github"
 
     }
 }
